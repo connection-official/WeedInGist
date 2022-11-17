@@ -2,8 +2,8 @@
 
 <div align=center>
 
-## 💻LG CNS STUDY
-우리는 함께 성장하며 보다 높은 곳을 바라보는 알고리즘 스터디 LG CNS STUDY입니다.<br>[\<connection/> 바로가기](https://k7c202.p.ssafy.io/)
+## 💻LG_CNS_STUDY
+우리는 함께 성장하며 보다 높은 곳을 바라보는 알고리즘 스터디 LG_CNS_STUDY입니다.<br>[\<connection/> 바로가기](https://k7c202.p.ssafy.io/)
 <br><br><br>
 ## 🔥 스터디 멤버<br>
 <table>
@@ -11,7 +11,7 @@
 <br><br>
 
 ## 💻과제
-![과제](https://www.coalla.co.kr/api/svg/LG CNS STUDY)
+![과제](https://www.coalla.co.kr/api/svg/LG_CNS_STUDY)
 <br><br><br>
 </div>
 
